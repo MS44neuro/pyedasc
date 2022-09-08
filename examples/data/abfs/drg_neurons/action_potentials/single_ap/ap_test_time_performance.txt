@@ -1,0 +1,7 @@
+File c:\Users\user\module\examples\data\abfs\drg_neurons\action_potentials\single_ap\10kHz_single_ap_file_1.abf analyzed in: 1.967 seconds.
+File c:\Users\user\module\examples\data\abfs\drg_neurons\action_potentials\single_ap\10kHz_single_ap_file_2.abf analyzed in: 1.871 seconds.
+File c:\Users\user\module\examples\data\abfs\drg_neurons\action_potentials\single_ap\10kHz_single_ap_file_3.abf analyzed in: 1.848 seconds.
+File c:\Users\user\module\examples\data\abfs\drg_neurons\action_potentials\single_ap\10kHz_single_ap_file_4.abf analyzed in: 1.903 seconds.
+File c:\Users\user\module\examples\data\abfs\drg_neurons\action_potentials\single_ap\10kHz_single_ap_file_5.abf analyzed in: 1.988 seconds.
+Mean analysis time: 1.915 seconds.
+Total analysis time: 9.577 seconds.
