@@ -6,6 +6,6 @@ Installation
 
 To use pyedasc, first install it using pip:
 
-.. code-block:: bash
+.. code-block:: console
 
    (.venv) $ pip install pyedasc
